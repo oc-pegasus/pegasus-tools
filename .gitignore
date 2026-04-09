@@ -1,0 +1,7 @@
+.dev.vars
+config.json
+*.key
+*.token
+.env
+.env.*
+node_modules/
